@@ -157,8 +157,10 @@ input{
         width: 100vw;
     }
     main{
-        margin: 2rem;
+        height:auto;
+        width:80vw;
         padding: 2rem;
+        margin-top:40rem;
     }
 
     #welcomeScreen h2{
