@@ -156,7 +156,8 @@ input{
         width: 100vw;
     }
     main{
-/*         width: 80vw; */
+        width: 80vw;
+        position:center;
         padding: 2rem;
     }
 
