@@ -3,4 +3,5 @@
 
 ## Project Feature
 - To learn the Core Concept of Javascript 
+- 2 Type of attempts : Hard & Easy
 - Responsiveness
